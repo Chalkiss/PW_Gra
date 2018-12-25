@@ -1,0 +1,7 @@
+1. utworzyæ repozytorium na Githubie --DONE
+2. utworzyæ pliki serwera i klienta w repozytorium oraz pliki typu utils
+3. utworzenie pamiêci wspó³dzielonej w pliku serwera, dientyfikowanej liczb¹ 9127
+4. utworzenie kolejek komunikatów w plikach serwera i klienta
+5. przesy³aæ komunikat o po³¹czeniu serwera i klientów w momencie po³¹czenia
+6. dodanie do utils funkcji, z których korzystaj¹ kolejki i shmem, dodaæ definicje  p oraz v
+7. commit
